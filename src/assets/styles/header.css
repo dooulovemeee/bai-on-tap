@@ -1,0 +1,8 @@
+.nav-item {
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 10px;
+    display: flex;
+    align-items: start;
+    font-weight: bold;
+}
